@@ -35,7 +35,7 @@
 }
 .active-text{
    display: block;
-   animation: moveup 0.5s ease;
+   animation: moveup 0.5s linear forwards;
 }
 .usertext .fa-quote-left{
     font-size: 30px;
